@@ -1,0 +1,33 @@
+[
+    {
+        "title": "GT Movie Store",
+        "imageSrc": "../assets/projects/gtmoviestore.png",
+        "description": "Movie Review Website",
+        "skills": [
+            "Python", 
+            "HTML", 
+            "CSS", 
+            "Django",
+            "BootStrap",
+            "SQLite"
+        ],
+        "demo": "https://sites.google.com/view/cs2340-pawan2-project1/process",
+        "source": "https://github.com/2340-CS/GT-Movies"
+    },
+
+    {
+        "title": "Fitjacket",
+        "imageSrc": "../assets/projects/fitjacket.png",
+        "description": "All-in-one Fitness Tracking Website",
+        "skills": [
+            "Python", 
+            "HTML", 
+            "CSS",
+            "Django",
+            "BootStrap",
+            "SQLite"
+        ],
+        "demo": "https://sites.google.com/view/pawan-2-fitjacket/home",
+        "source": "https://github.com/2340-CS/Fitjacket"
+    }
+]

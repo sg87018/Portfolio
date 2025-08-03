@@ -1,0 +1,29 @@
+[
+    {
+        "role": "Software Engineer Intern",
+        "organization": "Air Force",
+        "startDate": "May. 2025",
+        "endDate": "Jul. 2025",
+        "experiences": [
+            "Built LINK 16 & shared-memory messaging for the F-35 PVI in C++/C#, collaborating with 10+ engineers and interns",
+            "Engineered 3+ backend protocols/algorithms for bidirectional mission-critical data, boosting embedded comms by 30%",
+            "Optimized UI/UX with XAML data bindings and multi-threaded logic—cutting manual update code by 40%",
+            "Utilized Azure DevOps workflows for source control and CI/CD pipelines to ensure efficient task management"
+        ],
+        "imageSrc": "../assets/history/Untitled_design_3_.png"
+    },
+
+    {
+        "role": "Software Engineer Intern",
+        "organization": "Air Force",
+        "startDate": "Jun. 2023",
+        "endDate": "Jul. 2024",
+        "experiences": [
+            "Collaborated with 15 interns under 402d SWEG who deployed real-time aircraft software changes and provided Python training",
+            "Delivered bi-weekly technical briefs to 5+ Air Force SWE mentors, streamlining government data collection",
+            "Developed a Multisim-based hardware fault-detection prototype for flare dispensers using ICs and Python on Raspberry Pi",
+            "Built an 80%-accurate YOLOv5 object-detection solution in RoboFlow with OpenCV for real-time inference"
+        ],
+        "imageSrc": "../assets/history/Untitled_design_3_.png"
+    }
+]

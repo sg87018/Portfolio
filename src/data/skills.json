@@ -1,0 +1,47 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "../assets/skills/html.png"
+    },
+
+    {
+        "title": "CSS",
+        "imageSrc": "../assets/skills/css.png"
+    },
+
+    {
+        "title": "Python",
+        "imageSrc": "../assets/skills/python.png"
+    },
+
+    {
+        "title": "Java",
+        "imageSrc": "../assets/skills/java.png"
+    },
+
+    {
+        "title": "React",
+        "imageSrc": "../assets/skills/react.png"
+    },
+
+    {
+        "title": "Lua",
+        "imageSrc": "../assets/skills/lua.png"
+    },
+
+    {
+        "title": "C++",
+        "imageSrc": "../assets/skills/cplus.png"
+    },
+
+    {
+        "title": "C#",
+        "imageSrc": "../assets/skills/csharp.png"
+    },
+
+    {
+        "title": "XML",
+        "imageSrc": "../assets/skills/xml.png"
+    }
+
+]
