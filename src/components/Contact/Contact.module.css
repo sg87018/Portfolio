@@ -52,15 +52,34 @@
     .container {
         flex-direction: column;
         gap: 23px;
+        padding: 40px 5%;
     }
 
     .text {
         display: flex;
         flex-direction: column;
         align-items: center;
+        text-align: center;
+    }
+
+    .text h2 {
+        font-size: 48px;
+        letter-spacing: 2px;
+    }
+
+    .text p {
+        font-size: 24px;
+        letter-spacing: 1px;
     }
 
     .links {
         align-items: center;
+        gap: 20px;
+    }
+
+    .link a {
+        font-size: 18px;
+        letter-spacing: 0.5px;
+        word-break: break-all;
     }
 }
